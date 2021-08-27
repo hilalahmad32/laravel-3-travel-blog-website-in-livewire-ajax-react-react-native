@@ -16,3 +16,18 @@
 6. php artisan migrate
 7. php artisan key:generate
 8. php artisan db:seed
+9. php artisan serve
+
+
+
+## Enjoy the Website
+http://127.0.0.1:8000
+http://127.0.0.1:8000/blog
+http://127.0.0.1:8000/about
+http://127.0.0.1:8000/contact
+http://127.0.0.1:8000/category-post
+http://127.0.0.1:8000/admin
+http://127.0.0.1:8000/admin/login
+http://127.0.0.1:8000/admin/dashboard
+http://127.0.0.1:8000/admin/category
+http://127.0.0.1:8000/admin/Post
